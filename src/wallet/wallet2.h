@@ -23,7 +23,7 @@
 #include "core_default_rpc_proxy.h"
 #include "wallet_errors.h"
 
-#define DEFAULT_TX_SPENDABLE_AGE                               10
+#define DEFAULT_TX_SPENDABLE_AGE                               30
 
 namespace tools
 {
